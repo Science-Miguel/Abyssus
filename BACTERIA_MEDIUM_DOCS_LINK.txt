@@ -1,0 +1,21 @@
+MEDIO	BACTERIA	PUBID	LLAVE	ESTADO
+ Hoeflea	 Artificial Seawater (ASW) medium	 PUBID	BMDM1	1
+ Hypomicrobium	 Hypomicrobium medium 337A	 23314912	BMDM2	1
+ Hypomicrobium	 Mineral medium	 25979892	BMDM3	1
+ Hypomicrobium	 Mineral medium v2	 17938908	BMDM4	1
+ Rhodocista	 T4 medium	 7765115	BMDM5	1
+ Rhodocista	 SA medium	 17913074	BMDM6	1
+ Rhodocista	 JNFB medium	 NA	BMDM7	1
+ Polyangium	 CY medium with seawater salts	 11403403	BMDM8	1
+ Polyangium	 Probion liquid medium	 21304682	BMDM9	1
+ Clostridisailbacter	 MCWD3 medium	 27220069	BMDM10	1
+ Clostridisailbacter	 Basal medium hungate	 27095453	BMDM11	1
+ Clostridisalibacter	 Basal medium	 18175684	BMDM12	1
+ Clostridilsailbacter	 Anaerobic enrichment medium	 22307504	BMDM13	1
+ Gelria	 Bicarbonate buffered medium	 20173012	BMDM14	1
+ Marinomonas	 BSi20414 medium	 11931148	BMDM15	1
+ Marinomonas	 Marine agar 2216	 28075353	BMDM16	1
+ Rudaea	 R2A medium	 27199280	BMDM17	1
+ Actinoallomurus	 AF-A medium	 19620378	BMDM18	1
+ Actinoallomurus	 Mannitol Soya Flour Agar SFM	 28218529	BMDM19	1
+ Sporomusa	 Sporomusa medium (betaine)	 20418407	BMDM20	1
