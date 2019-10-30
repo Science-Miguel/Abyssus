@@ -1,7 +1,0 @@
- K2HPO4	 0.3 g/L
- NH4Cl	 1 g/L
- Yeast extract	 2 g/L
- Glucose	 3 g/L
- Cysteine*H2O*HCl	 0.5 g/L
- CaCl2 	 0.2 g/L
- KH2PO4	 0.3 g/L

@@ -1,8 +1,0 @@
- CaCl2* 2H2O	 0.05 g/L
- MgSO4*7H2O	 0.2 g/L
- K2HPO4	 0.6 g/L
- (NH4)2SO4	 1 g/L
- Yeast extract	 0.1 g/L
- Sodium acetate	 1 g/L
- Sodium succinate	 1 g/L
- KH2PO4	 0.5 g/L
