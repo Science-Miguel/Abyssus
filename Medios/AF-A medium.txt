@@ -1,0 +1,3 @@
+ Glucose	 10 g/L
+ Soybean meal	 4 g/L
+ MES buffer	 1.5 g/L

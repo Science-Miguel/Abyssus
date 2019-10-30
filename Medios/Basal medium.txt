@@ -1,0 +1,4 @@
+ Glucose	 5 g/L
+ Cysteine*H2O*HCl	 0.5 g/L
+ Trypticase peptone (BD)	 5 g/L
+ Peptone from meat (pepsin digested)	 5 g/L

@@ -1,0 +1,4 @@
+ CaCl2* 2H2O	 0.1 g/L
+ K2HPO4	 0.3 g/L
+ NH4Cl	 1 g/L
+ KH2PO4	 0.3 g/L

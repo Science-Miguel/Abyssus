@@ -1,0 +1,15 @@
+ Na2HPO4	 0.008 g/L
+ Yeast extract	 1 g/L
+ C6H5FeO7	 0.1 g/L
+ NaHCO3	 0.16 g/L
+ NH4NO3	 0.0016 g/L
+ NaF	 0.0024 g/L
+ Na2SiO3	 0.004 g/L
+ KBr	 0.08 g/L
+ SrCl2	 0.034 g/L
+ MgCl2  	 8.8 g/L
+ CaCl2 	 1.8 g/L
+ Na2SO4	 3.24 g/L
+ H3BO3	 0.022 g/L
+ Agar	 15 g/L
+ Peptone  	 5 g/L

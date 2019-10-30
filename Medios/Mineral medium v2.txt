@@ -1,0 +1,5 @@
+ MgCl2* 6H2O	 0.1 g/L
+ Na2CO3	 0.5 g/L
+ K2HPO4	 0.4 g/L
+ NH4Cl	 0.4 g/L
+ KH2PO4	 1 g/L
