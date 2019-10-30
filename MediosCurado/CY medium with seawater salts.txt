@@ -1,0 +1,9 @@
+ NaCl	 21.1 g/L
+ KCl	 0.6 g/L
+ CaCl2* 2H2O	 1.2 g/L
+ MgSO4*7H2O	 2.6 g/L
+ MgCl2* 6H2O	 3.6 g/L
+ Yeast extract	 1 g/L
+ Casitone	 3 g/L
+ NaHCO3	 0.09 g/L
+ Agar	 15 g/L

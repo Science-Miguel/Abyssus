@@ -1,0 +1,4 @@
+ CaCl2 	 1.10 g/L
+ Soybean flour	 8 g/L
+ Mannitol	 8 g/L
+ Agar	 8 g/L

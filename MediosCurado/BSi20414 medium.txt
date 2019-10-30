@@ -1,0 +1,6 @@
+ KCl	 1 g/L
+ MgSO4*7H2O	 4 g/L
+ MgCl2  	 5 g/L
+ CaCl2 	 0.6 g/L
+ lactose	 15 g/L
+ Tryptone	 5 g/L

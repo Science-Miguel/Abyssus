@@ -1,0 +1,6 @@
+ NaCl	 26.4 g/L
+ KCl	 0.67 g/L
+ CaCl2* 2H2O	 1.36 g/L
+ MgSO4*7H2O	 6.29 g/L
+ MgCl2* 6H2O	 4.66 g/L
+ Na2CO3	 0.18 g/L

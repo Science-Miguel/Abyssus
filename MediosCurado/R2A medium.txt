@@ -1,0 +1,10 @@
+ K2HPO4	 0.3 g/L
+ Casein Hydrolysate	 0.5 g/L
+ Yeast extract	 0.5 g/L
+ Casein peptone	 0.25 g/L
+ Soluble starch	 0.5 g/L
+ Glucose	 0.5 g/L
+ Sodium pyruvate	 0.3 g/L
+ MgSO4 	 0.024 g/L
+ Agar	 15 g/L
+ Peptone from meat (pepsin digested)	 0.25 g/L

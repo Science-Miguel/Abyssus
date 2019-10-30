@@ -1,0 +1,11 @@
+ NaCl	 2.25 g/L
+ CaCl2* 2H2O	 0.25 g/L
+ MgSO4*7H2O	 0.50 g/L
+ K2HPO4	 0.35 g/L
+ NH4Cl	 0.50 g/L
+ Yeast extract	 2 g/L
+ Casitone	 2 g/L
+ NaHCO3	 4 g/L
+ Na2S*9H2O	 0.30 g/L
+ Cysteine*H2O*HCl	 0.30 g/L
+ KH2PO4	 0.23 g/L

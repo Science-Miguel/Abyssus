@@ -1,0 +1,5 @@
+ CaCl2* 2H2O	 0.5 g/L
+ MgCl2*7H20	 2 g/L
+ Probion*	 3 g/L
+ Soluble starch	 3 g/L
+ HEPES Buffer	 2.38 g/L

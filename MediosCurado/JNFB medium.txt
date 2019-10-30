@@ -1,0 +1,6 @@
+ NaCl	 1 g/L
+ CaCl2* 2H2O	 0.02 g/L
+ MgSO4*7H2O	 0.2 g/L
+ K2HPO4	 0.5 g/L
+ Malic acid	 5 g/L
+ FeEDTAsolution (1.65%)	 1.65 g/L

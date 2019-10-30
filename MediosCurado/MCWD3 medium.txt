@@ -1,0 +1,15 @@
+ NaCl	 22 g/L
+ KCl	 0.34 g/L
+ CaCl2* 2H2O	 0.14 g/L
+ MgSO4*7H2O	 3.45 g/L
+ MgCl2* 6H2O	 2.8 g/L
+ K2HPO4	 0.14 g/L
+ NH4Cl	 0.5 g/L
+ Yeast extract	 2 g/L
+ FeSO4 	 0.017 g/L
+ Glucose	 5 g/L
+ NaHCO3	 5 g/L
+ Na2S*9H2O	 0.5 g/L
+ Sodium acetate	 1.4 g/L
+ Resazurin	 0.001 g/L
+ Cysteine*H2O*HCl	 0.5 g/L
