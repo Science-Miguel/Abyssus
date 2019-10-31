@@ -1,0 +1,20 @@
+M_1	 Artificial Seawater (ASW) medium	1
+M_2	 Hypomicrobium medium 337A	1
+M_3	 Mineral medium	1
+M_4	 Mineral medium v2	1
+M_5	 T4 medium	1
+M_6	 SA medium	1
+M_7	 JNFB medium	1
+M_8	 CY medium with seawater salts	1
+M_9	 Probion liquid medium	1
+M_10	 MCWD3 medium	1
+M_11	 Basal medium hungate	1
+M_12	 Basal medium	1
+M_13	 Anaerobic enrichment medium	1
+M_14	 Bicarbonate buffered medium	1
+M_15	 BSi20414 medium	1
+M_16	 Marine agar 2216	1
+M_17	 R2A medium	1
+M_18	 AF-A medium	1
+M_19	 Mannitol Soya Flour Agar SFM	1
+M_20	 Sporomusa medium (betaine)	1
