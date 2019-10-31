@@ -41,28 +41,33 @@ with open(my_args.file, 'r') as file:
 Componentes, compuesto, concentracion =[],[],[]
 Componentes=Medio[' ']
 Medio.pop(' ')
-#for key in Medio:
-#	for i in range(0,len(Medio[key])):
-#			if Medio[key][i]!=" ":
-#					compuesto.append(Componentes[i])
-#					concentracion.append(Medio[key][i])								
-#	with open(os.path.join(my_args.outputPath,key + '.txt'), mode="a") as oFile:
-#			for i in range(0,len(compuesto)):
-#					oFile.write(compuesto[i])
-#					oFile.write('\t')
-#					oFile.write(concentracion[i])
-#					oFile.write('\n')
-#	compuesto.clear()
-#	concentracion.clear()
+for key in Medio:
+	for i in range(0,len(Medio[key])):
+			if Medio[key][i]!=" ":
+				compuesto.append(Componentes[i])
+				concentracion.append(Medio[key][i])								
+	with open(os.path.join(my_args.outputPath,key + '.txt'), mode="a") as oFile:
+		llave=1
+		for i in range(0,len(compuesto)):
+			oFile.write(compuesto[i])
+			oFile.write('\t')
+			oFile.write(concentracion[i])
+			oFile.write('\t')
+			oFile.write('Comp_'+str(llave))
+			oFile.write('\n')
+			llave=llave+1
+
+	compuesto.clear()
+	concentracion.clear()
 
 
 ###########################################################################
 ###			Obtenicion de un .txt por bacteria con sus medios    	    ###
 ###########################################################################
 
-#bac, diversidad, medios=[],[],[]
-#bac=list(Bacteria.values())
-#medios=list(Bacteria.keys())
+bac, diversidad, medios=[],[],[]
+bac=list(Bacteria.values())
+medios=list(Bacteria.keys())
 #for i in range(0,len(Bacteria.values())):
 #	for j in range(0,len(Bacteria.values())):
 #		if i!=j:
@@ -86,6 +91,7 @@ casa, inquilino=[],[]
 for m in Bacteria:
 	casa.append(Bacteria[m])
 	inquilino.append(m)
+
 llave=1
 with open(os.path.join(my_args.outputPath, 'BACTERIA_MEDIUM_DOCS_LINK.txt'), mode='w') as oFile:
 	oFile.write("MEDIO\tBACTERIA\tPUBID\tLLAVE\tESTADO\n")
@@ -96,13 +102,40 @@ with open(os.path.join(my_args.outputPath, 'BACTERIA_MEDIUM_DOCS_LINK.txt'), mod
 		oFile.write('\t')
 		oFile.write(pubid[i])
 		oFile.write('\t')
-		oFile.write('BMDM'+str(llave))
+		oFile.write('BMDM')
+		oFile.write('\t')
+		oFile.write('1')
+		oFile.write('\n')
+
+########################################################
+#### Obtencion de la tabla BACTERIA formateable por SQL ####
+########################################################
+llave=1
+with open(os.path.join(my_args.outputPath, 'BACTERIA.txt'), mode='w') as oFile:
+	for i in range(0,len(bac)):
+		oFile.write('Bac_'+str(llave))
+		oFile.write('\t')
+		oFile.write(str(bac[i]))
+		oFile.write('\t')
+		oFile.write('NA')
+		oFile.write('\t')
+		oFile.write('NA')
 		oFile.write('\t')
 		oFile.write('1')
 		oFile.write('\n')
 		llave=llave+1
 
-
-with open(os.path.join(my_args.outputPath, 'Bacterias.csv'), mode='a') as oFile:
-	for i in bac:
-		oFile.write(str(i)+',')
+########################################################
+#### Obtencion de la tabla MEDIUM formateable por SQL ##
+########################################################
+medios.pop(0)
+llave=1
+with open(os.path.join(my_args.outputPath, 'MEDIUM.txt'), mode='w') as oFile:
+	for i in range(0,len(medios)):
+		oFile.write('M_'+str(llave))
+		oFile.write('\t')
+		oFile.write(str(medios[i]))
+		oFile.write('\t')
+		oFile.write('1')
+		oFile.write('\n')
+		llave=llave+1
