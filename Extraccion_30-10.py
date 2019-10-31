@@ -49,21 +49,21 @@ for elemento in Componentes:
 
 Medio.pop(' ')
 with open(os.path.join(my_args.outputPath,'COMPOUND.txt'), mode="w") as oFile:
+	llave=1
 	for key in Medio:
 		for i in range(0,len(Medio[key])):
 				if Medio[key][i]!=" ":
 					compuesto.append(Componentes[i])
 					concentracion.append(Medio[key][i])								
 		#with open(os.path.join(my_args.outputPath,key + '.txt'), mode="w") as oFile:
-		llave=1
 		for i in range(0,len(compuesto)):
-			oFile.write(compuesto[i])
+			oFile.write('Comp_'+str(llave))
 			oFile.write('\t')
-			oFile.write(concentracion[i])
+			oFile.write(compuesto[i])
 			oFile.write('\t')
 			oFile.write(str(key))
 			oFile.write('\t')
-			oFile.write(str(Comp_llave[compuesto[i]]))
+			oFile.write(concentracion[i])
 			oFile.write('\t')
 			oFile.write('1')
 			oFile.write('\n')
@@ -154,8 +154,7 @@ for i in medios:
 	if i not in Medio_llave:
 		Medio_llave[i]='M_'+str(llave)
 		llave=llave+1
-print(medios)
-print(len(medios))
+
 with open(os.path.join(my_args.outputPath, 'MEDIUM.txt'), mode='w') as oFile:
 	for i in Medio_llave:
 		oFile.write(str(Medio_llave[i]))
@@ -164,9 +163,11 @@ with open(os.path.join(my_args.outputPath, 'MEDIUM.txt'), mode='w') as oFile:
 		oFile.write('\t')
 		oFile.write('1')
 		oFile.write('\n')
-		
-########################################################
-#### Obtencion de la tabla MEDIUM-COMPOUND formateable por SQL ##
-########################################################
 
-#with open(os.path.join(my_args.outputPath,''))
+
+with open(os.path.join(my_args.outputPath,'Llaves-de-medios.txt'),mode='w') as oFile:
+	for i in Medio_llave:
+		oFile.write(str(i))
+		oFile.write('\t')
+		oFile.write(str(Medio_llave[i]))
+		oFile.write('\n')
