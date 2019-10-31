@@ -1,0 +1,169 @@
+ NaCl	 26.4 g/L	 Artificial Seawater (ASW) medium	Comp_66	1
+ KCl	 0.67 g/L	 Artificial Seawater (ASW) medium	Comp_67	1
+ CaCl2* 2H2O	 1.36 g/L	 Artificial Seawater (ASW) medium	Comp_68	1
+ MgSO4*7H2O	 6.29 g/L	 Artificial Seawater (ASW) medium	Comp_69	1
+ MgCl2* 6H2O	 4.66 g/L	 Artificial Seawater (ASW) medium	Comp_70	1
+ Na2CO3	 0.18 g/L	 Artificial Seawater (ASW) medium	Comp_71	1
+ CaCl2* 2H2O	 0.00309 g/L	 Hypomicrobium medium 337A	Comp_72	1
+ MgSO4*7H2O	 0.002 g/L	 Hypomicrobium medium 337A	Comp_73	1
+ K2HPO4	 1.3 g/L	 Hypomicrobium medium 337A	Comp_74	1
+ Na2HPO4	 1.13 g/L	 Hypomicrobium medium 337A	Comp_75	1
+ (NH4)2SO4	 0.5 g/L	 Hypomicrobium medium 337A	Comp_76	1
+ FeSO4*7H2O	 0.002 g/L	 Hypomicrobium medium 337A	Comp_77	1
+ Na2MoO4*2H2O	 0.001 g/L	 Hypomicrobium medium 337A	Comp_78	1
+ MnSO4*4H2O	 0.00088 g/L	 Hypomicrobium medium 337A	Comp_79	1
+ CuCl2*2H2O	 10 g/L	 Hypomicrobium medium 337A	Comp_80	1
+ B12 Vitamin	 0.0001 g/L	 Hypomicrobium medium 337A	Comp_81	1
+ K2HPO4	 1.742 g/L	 Mineral medium	Comp_82	1
+ (NH4)2SO4	 1.9821 g/L	 Mineral medium	Comp_83	1
+ FeSO4 	 0.000607 g/L	 Mineral medium	Comp_84	1
+ CaCl2 	 0.0011098 g/L	 Mineral medium	Comp_85	1
+ NaH2PO4	 1.679 g/L	 Mineral medium	Comp_86	1
+ MgSO4 	 1.203 g/L	 Mineral medium	Comp_87	1
+ ZnSO4	 0.0001614 g/L	 Mineral medium	Comp_88	1
+ CuSO4	 0.0001596 g/L	 Mineral medium	Comp_89	1
+ CoCl2	 0.0001298 g/L	 Mineral medium	Comp_90	1
+ (NH4)6Mo7O24	 0.216 g/L	 Mineral medium	Comp_91	1
+ MnCl2	 0.0006292 g/L	 Mineral medium	Comp_92	1
+ EDTA	 0.0011689 g/L	 Mineral medium	Comp_93	1
+ CaCl2* 2H2O	 0.01 g/L	 Mineral medium v2	Comp_94	1
+ MgCl2* 6H2O	 0.1 g/L	 Mineral medium v2	Comp_95	1
+ Na2CO3	 0.5 g/L	 Mineral medium v2	Comp_96	1
+ K2HPO4	 0.4 g/L	 Mineral medium v2	Comp_97	1
+ NH4Cl	 0.4 g/L	 Mineral medium v2	Comp_98	1
+ KH2PO4	 1 g/L	 Mineral medium v2	Comp_99	1
+ NaCl	 1 g/L	 T4 medium	Comp_100	1
+ CaCl2* 2H2O	 0.1 g/L	 T4 medium	Comp_101	1
+ MgCl2* 6H2O	 0.5 g/L	 T4 medium	Comp_102	1
+ NH4Cl	 1 g/L	 T4 medium	Comp_103	1
+ NaHCO3	 1 g/L	 T4 medium	Comp_104	1
+ Sodium acetate	 3 g/L	 T4 medium	Comp_105	1
+ KH2PO4	 1 g/L	 T4 medium	Comp_106	1
+ NaCl	 0.2 g/L	 SA medium	Comp_107	1
+ Na2S2O3*5H2O	 0.1 g/L	 SA medium	Comp_108	1
+ CaCl2* 2H2O	 0.05 g/L	 SA medium	Comp_109	1
+ MgSO4*7H2O	 0.2 g/L	 SA medium	Comp_110	1
+ K2HPO4	 0.6 g/L	 SA medium	Comp_111	1
+ (NH4)2SO4	 1 g/L	 SA medium	Comp_112	1
+ Yeast extract	 0.1 g/L	 SA medium	Comp_113	1
+ Sodium acetate	 1 g/L	 SA medium	Comp_114	1
+ Sodium succinate	 1 g/L	 SA medium	Comp_115	1
+ KH2PO4	 0.5 g/L	 SA medium	Comp_116	1
+ NaCl	 1 g/L	 JNFB medium	Comp_117	1
+ CaCl2* 2H2O	 0.02 g/L	 JNFB medium	Comp_118	1
+ MgSO4*7H2O	 0.2 g/L	 JNFB medium	Comp_119	1
+ K2HPO4	 0.5 g/L	 JNFB medium	Comp_120	1
+ Malic acid	 5 g/L	 JNFB medium	Comp_121	1
+ FeEDTAsolution (1.65%)	 1.65 g/L	 JNFB medium	Comp_122	1
+ NaCl	 21.1 g/L	 CY medium with seawater salts	Comp_123	1
+ KCl	 0.6 g/L	 CY medium with seawater salts	Comp_124	1
+ CaCl2* 2H2O	 1.2 g/L	 CY medium with seawater salts	Comp_125	1
+ MgSO4*7H2O	 2.6 g/L	 CY medium with seawater salts	Comp_126	1
+ MgCl2* 6H2O	 3.6 g/L	 CY medium with seawater salts	Comp_127	1
+ Yeast extract	 1 g/L	 CY medium with seawater salts	Comp_128	1
+ Casitone	 3 g/L	 CY medium with seawater salts	Comp_129	1
+ NaHCO3	 0.09 g/L	 CY medium with seawater salts	Comp_130	1
+ Agar	 15 g/L	 CY medium with seawater salts	Comp_131	1
+ CaCl2* 2H2O	 0.5 g/L	 Probion liquid medium	Comp_132	1
+ MgCl2*7H20	 2 g/L	 Probion liquid medium	Comp_133	1
+ Probion*	 3 g/L	 Probion liquid medium	Comp_134	1
+ Soluble starch	 3 g/L	 Probion liquid medium	Comp_135	1
+ HEPES Buffer	 2.38 g/L	 Probion liquid medium	Comp_136	1
+ NaCl	 22 g/L	 MCWD3 medium	Comp_137	1
+ KCl	 0.34 g/L	 MCWD3 medium	Comp_138	1
+ CaCl2* 2H2O	 0.14 g/L	 MCWD3 medium	Comp_139	1
+ MgSO4*7H2O	 3.45 g/L	 MCWD3 medium	Comp_140	1
+ MgCl2* 6H2O	 2.8 g/L	 MCWD3 medium	Comp_141	1
+ K2HPO4	 0.14 g/L	 MCWD3 medium	Comp_142	1
+ NH4Cl	 0.5 g/L	 MCWD3 medium	Comp_143	1
+ Yeast extract	 2 g/L	 MCWD3 medium	Comp_144	1
+ FeSO4 	 0.017 g/L	 MCWD3 medium	Comp_145	1
+ Glucose	 5 g/L	 MCWD3 medium	Comp_146	1
+ NaHCO3	 5 g/L	 MCWD3 medium	Comp_147	1
+ Na2S*9H2O	 0.5 g/L	 MCWD3 medium	Comp_148	1
+ Sodium acetate	 1.4 g/L	 MCWD3 medium	Comp_149	1
+ Resazurin	 0.001 g/L	 MCWD3 medium	Comp_150	1
+ Cysteine*H2O*HCl	 0.5 g/L	 MCWD3 medium	Comp_151	1
+ NaCl	 50 g/L	 Basal medium hungate	Comp_152	1
+ KCl	 0.1 g/L	 Basal medium hungate	Comp_153	1
+ CaCl2* 2H2O	 0.1 g/L	 Basal medium hungate	Comp_154	1
+ K2HPO4	 0.3 g/L	 Basal medium hungate	Comp_155	1
+ NH4Cl	 1 g/L	 Basal medium hungate	Comp_156	1
+ KH2PO4	 0.3 g/L	 Basal medium hungate	Comp_157	1
+ Yeast extract	 10 g/L	 Basal medium	Comp_158	1
+ Glucose	 5 g/L	 Basal medium	Comp_159	1
+ Cysteine*H2O*HCl	 0.5 g/L	 Basal medium	Comp_160	1
+ Trypticase peptone (BD)	 5 g/L	 Basal medium	Comp_161	1
+ Peptone from meat (pepsin digested)	 5 g/L	 Basal medium	Comp_162	1
+ NaCl	 40 g/L	 Anaerobic enrichment medium	Comp_163	1
+ KCl	 0.5 g/L	 Anaerobic enrichment medium	Comp_164	1
+ K2HPO4	 0.3 g/L	 Anaerobic enrichment medium	Comp_165	1
+ NH4Cl	 1 g/L	 Anaerobic enrichment medium	Comp_166	1
+ Yeast extract	 2 g/L	 Anaerobic enrichment medium	Comp_167	1
+ Glucose	 3 g/L	 Anaerobic enrichment medium	Comp_168	1
+ Cysteine*H2O*HCl	 0.5 g/L	 Anaerobic enrichment medium	Comp_169	1
+ CaCl2 	 0.2 g/L	 Anaerobic enrichment medium	Comp_170	1
+ KH2PO4	 0.3 g/L	 Anaerobic enrichment medium	Comp_171	1
+ NaCl	 0.3 g/L	 Bicarbonate buffered medium	Comp_172	1
+ CaCl2* 2H2O	 0.11 g/L	 Bicarbonate buffered medium	Comp_173	1
+ MgCl2* 6H2O	 0.11 g/L	 Bicarbonate buffered medium	Comp_174	1
+ Na2HPO4	 0.53 g/L	 Bicarbonate buffered medium	Comp_175	1
+ NH4Cl	 0.3 g/L	 Bicarbonate buffered medium	Comp_176	1
+ Yeast extract	 0.5 g/L	 Bicarbonate buffered medium	Comp_177	1
+ NaHCO3	 4 g/L	 Bicarbonate buffered medium	Comp_178	1
+ Resazurin	 0.005 g/L	 Bicarbonate buffered medium	Comp_179	1
+ Na2S*7H2O	 0.25 g/L	 Bicarbonate buffered medium	Comp_180	1
+ KH2PO4	 0.4 g/L	 Bicarbonate buffered medium	Comp_181	1
+ KCl	 1 g/L	 BSi20414 medium	Comp_182	1
+ MgSO4*7H2O	 4 g/L	 BSi20414 medium	Comp_183	1
+ MgCl2  	 5 g/L	 BSi20414 medium	Comp_184	1
+ CaCl2 	 0.6 g/L	 BSi20414 medium	Comp_185	1
+ lactose	 15 g/L	 BSi20414 medium	Comp_186	1
+ Tryptone	 5 g/L	 BSi20414 medium	Comp_187	1
+ NaCl	 19.45 g/L	 Marine agar 2216	Comp_188	1
+ KCl	 0.55 g/L	 Marine agar 2216	Comp_189	1
+ Na2HPO4	 0.008 g/L	 Marine agar 2216	Comp_190	1
+ Yeast extract	 1 g/L	 Marine agar 2216	Comp_191	1
+ C6H5FeO7	 0.1 g/L	 Marine agar 2216	Comp_192	1
+ NaHCO3	 0.16 g/L	 Marine agar 2216	Comp_193	1
+ NH4NO3	 0.0016 g/L	 Marine agar 2216	Comp_194	1
+ NaF	 0.0024 g/L	 Marine agar 2216	Comp_195	1
+ Na2SiO3	 0.004 g/L	 Marine agar 2216	Comp_196	1
+ KBr	 0.08 g/L	 Marine agar 2216	Comp_197	1
+ SrCl2	 0.034 g/L	 Marine agar 2216	Comp_198	1
+ MgCl2  	 8.8 g/L	 Marine agar 2216	Comp_199	1
+ CaCl2 	 1.8 g/L	 Marine agar 2216	Comp_200	1
+ Na2SO4	 3.24 g/L	 Marine agar 2216	Comp_201	1
+ H3BO3	 0.022 g/L	 Marine agar 2216	Comp_202	1
+ Agar	 15 g/L	 Marine agar 2216	Comp_203	1
+ Peptone  	 5 g/L	 Marine agar 2216	Comp_204	1
+ K2HPO4	 0.3 g/L	 R2A medium	Comp_205	1
+ Casein Hydrolysate	 0.5 g/L	 R2A medium	Comp_206	1
+ Yeast extract	 0.5 g/L	 R2A medium	Comp_207	1
+ Casein peptone	 0.25 g/L	 R2A medium	Comp_208	1
+ Soluble starch	 0.5 g/L	 R2A medium	Comp_209	1
+ Glucose	 0.5 g/L	 R2A medium	Comp_210	1
+ Sodium pyruvate	 0.3 g/L	 R2A medium	Comp_211	1
+ MgSO4 	 0.024 g/L	 R2A medium	Comp_212	1
+ Agar	 15 g/L	 R2A medium	Comp_213	1
+ Peptone from meat (pepsin digested)	 0.25 g/L	 R2A medium	Comp_214	1
+ NaCl	 0.5 g/L	 AF-A medium	Comp_215	1
+ Yeast extract	 1 g/L	 AF-A medium	Comp_216	1
+ Glucose	 10 g/L	 AF-A medium	Comp_217	1
+ Soybean meal	 4 g/L	 AF-A medium	Comp_218	1
+ MES buffer	 1.5 g/L	 AF-A medium	Comp_219	1
+ CaCl2 	 1.10 g/L	 Mannitol Soya Flour Agar SFM	Comp_220	1
+ Soybean flour	 8 g/L	 Mannitol Soya Flour Agar SFM	Comp_221	1
+ Mannitol	 8 g/L	 Mannitol Soya Flour Agar SFM	Comp_222	1
+ Agar	 8 g/L	 Mannitol Soya Flour Agar SFM	Comp_223	1
+ NaCl	 2.25 g/L	 Sporomusa medium (betaine)	Comp_224	1
+ CaCl2* 2H2O	 0.25 g/L	 Sporomusa medium (betaine)	Comp_225	1
+ MgSO4*7H2O	 0.50 g/L	 Sporomusa medium (betaine)	Comp_226	1
+ K2HPO4	 0.35 g/L	 Sporomusa medium (betaine)	Comp_227	1
+ NH4Cl	 0.50 g/L	 Sporomusa medium (betaine)	Comp_228	1
+ Yeast extract	 2 g/L	 Sporomusa medium (betaine)	Comp_229	1
+ Casitone	 2 g/L	 Sporomusa medium (betaine)	Comp_230	1
+ NaHCO3	 4 g/L	 Sporomusa medium (betaine)	Comp_231	1
+ Na2S*9H2O	 0.30 g/L	 Sporomusa medium (betaine)	Comp_232	1
+ Cysteine*H2O*HCl	 0.30 g/L	 Sporomusa medium (betaine)	Comp_233	1
+ KH2PO4	 0.23 g/L	 Sporomusa medium (betaine)	Comp_234	1
