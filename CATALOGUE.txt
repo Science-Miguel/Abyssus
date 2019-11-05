@@ -1,0 +1,65 @@
+ NaCl	Comp_1
+ KCl	Comp_2
+ Na2S2O3*5H2O	Comp_3
+ CaCl2* 2H2O	Comp_4
+ MgSO4*7H2O	Comp_5
+ MgCl2* 6H2O	Comp_6
+ MgCl2*7H20	Comp_7
+ Na2CO3	Comp_8
+ K2HPO4	Comp_9
+ Na2HPO4	Comp_10
+ (NH4)2SO4	Comp_11
+ FeSO4*7H2O	Comp_12
+ Na2MoO4*2H2O	Comp_13
+ MnSO4*4H2O	Comp_14
+ CuCl2*2H2O	Comp_15
+ B12 Vitamin	Comp_16
+ NH4Cl	Comp_17
+ Malic acid	Comp_18
+ Casein Hydrolysate	Comp_19
+ Yeast extract	Comp_20
+ C6H5FeO7	Comp_21
+ Casein peptone	Comp_22
+ Casitone	Comp_23
+ Probion*	Comp_24
+ Soluble starch	Comp_25
+ HEPES Buffer	Comp_26
+ FeSO4 	Comp_27
+ Glucose	Comp_28
+ NaHCO3	Comp_29
+ Na2S*9H2O	Comp_30
+ NH4NO3	Comp_31
+ NaF	Comp_32
+ Na2SiO3	Comp_33
+ KBr	Comp_34
+ SrCl2	Comp_35
+ Sodium acetate	Comp_36
+ Sodium succinate	Comp_37
+ Sodium pyruvate	Comp_38
+ Resazurin	Comp_39
+ Cysteine*H2O*HCl	Comp_40
+ Na2S*7H2O	Comp_41
+ MgCl2  	Comp_42
+ CaCl2 	Comp_43
+ lactose	Comp_44
+ Tryptone	Comp_45
+ KH2PO4	Comp_46
+ Soybean meal	Comp_47
+ Soybean flour	Comp_48
+ MES buffer	Comp_49
+ NaH2PO4	Comp_50
+ MgSO4 	Comp_51
+ ZnSO4	Comp_52
+ CuSO4	Comp_53
+ Mannitol	Comp_54
+ CoCl2	Comp_55
+ (NH4)6Mo7O24	Comp_56
+ MnCl2	Comp_57
+ EDTA	Comp_58
+ FeEDTAsolution (1.65%)	Comp_59
+ Na2SO4	Comp_60
+ H3BO3	Comp_61
+ Agar	Comp_62
+ Peptone  	Comp_63
+ Trypticase peptone (BD)	Comp_64
+ Peptone from meat (pepsin digested)	Comp_65
