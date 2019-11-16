@@ -1,0 +1,113 @@
+<html>
+<title>ABYSSUS_LogIn</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+<style>
+body,h1,h2{font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+p {line-height: 2}
+.bgimg, .bgimg2 {
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.bgimg {background-image: url("/w3images/wedding_couple.jpg")}
+.bgimg2 {background-image: url("/w3images/flowers.jpg")}
+</style>
+<body>
+
+<!-- Header / Home-->
+<header class="w3-display-container w3-wide bgimg w3-grayscale-min" id="home">
+  <div class="w3-display-middle w3-text-white w3-center">
+    <h1 class="w3-jumbo">ABYSSUS</h1>
+    <h2>Data Base</h2>
+  </div>
+</header>
+
+<!-- Navbar (sticky bottom) -->
+<div class="w3-bottom w3-hide-small">
+  <div class="w3-bar w3-white w3-center w3-padding w3-opacity-min w3-hover-opacity-off">
+    <a href="#home" style="width:25%" class="w3-bar-item w3-button">Home</a>
+    <a href="#about" style="width:25%" class="w3-bar-item w3-button">About</a>
+    <a href="#terms" style="width:25%" class="w3-bar-item w3-button">Terms and Conditions</a>
+    <a href="#LogIn" style="width:25%" class="w3-bar-item w3-button w3-hover-black">LogIn</a>
+  </div>
+</div>
+
+<!-- About -->
+<div class="w3-container w3-padding-64 w3-pale-red w3-grayscale-min" id="about">
+  <div class="w3-content">
+    <h1 class="w3-center w3-text-grey"><b>About ABYSSUS</b></h1>
+    <img class="w3-round w3-grayscale-min" src="/w3images/wedding_couple2.jpg" style="width:100%;margin:32px 0">
+    <p><i>This Data Base contains bacteria species that degrade hidrocarbons. It was made by LCG students, CCG, UNAM. </i>
+    </p><br>
+    <li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102"><a target="_blank" href="http://www.lcg.unam.mx">LCG</a></li>
+    <li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102"><a target="_blank" href="http://www.ccg.unam.mx">CCG</a></li>
+    <li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a target="_blank" href="http://www.morelos.unam.mx">UNAM Morelos</a></li>
+    <li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a target="_blank" href="http://www.unam.mx">UNAM</a></li>
+    <p class="w3-center"><a href="#about" class="w3-button w3-black w3-round w3-padding-large w3-large">About</a></p>
+  </div>
+</div>
+
+
+<!-- Terms and conditions -->
+<div class="w3-container w3-padding-64 w3-pale-red w3-grayscale-min" id="terms">
+  <div class="w3-content">
+    <h1 class="w3-center w3-text-grey"><b>Terms and Conditions</b></h1>
+    <img class="w3-round w3-grayscale-min" src="/w3images/wedding_couple2.jpg" style="width:100%;margin:32px 0">
+    <p><i>This Data Base was made without ... </i>
+    </p><br>
+    <p class="w3-center"><a href="#terms" class="w3-button w3-black w3-round w3-padding-large w3-large">Terms and Conditions</a></p>
+  </div>
+</div>
+
+
+<!-- LogIn section -->
+<div class="w3-container w3-padding-64 w3-pale-red w3-center w3-wide" id="LogIn">
+  <h1>Log In</h1>
+  <p class="w3-xlarge">
+    <button onclick="document.getElementById('login').style.display='block'" class="w3-button w3-round w3-red w3-opacity w3-hover-opacity-off" style="padding:8px 60px">LogIn</button>
+  </p>
+
+</div>
+
+<!-- LogIn_Password modal -->
+<div id="login" class="w3-modal">
+  <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="padding:32px;max-width:600px">
+    <div class="w3-container w3-white w3-center">
+      <h1 class="w3-wide">Log In </h1>
+      <p>ABYSSUS ACCOUNT</p>
+      <form action="ABYSSUS_LogInConsult.php" method="post">
+        mail: <input class="w3-input w3-border" type="text" placeholder="Mail" name="mail" id="mail" value = ""/>
+        password: <input class="w3-input w3-border" type="password" placeholder="Password" name="password" id="password" value="">
+      </form>
+
+      <div class="w3-row">
+        <div class="w3-half">
+
+          <input type="button" onclick="submit()" value="Log in"></div>
+        <div class="w3-half"> 
+          <input type="reset" value="Reset"></div>
+
+        <!--  <button onclick="document.getElementById('login').style.display='none'" type="button" class="w3-button w3-block w3-green">Forgot password</button>
+        </div>
+        <div class="w3-half">
+          <button onclick="document.getElementById('login').style.display='none'" type="button" class="w3-button w3-block w3-red">New Account</button>
+        </div> -->
+
+      <a class="w3-button w3-round w3-red w3-opacity w3-hover-opacity-off" href="http://tepeu.lcg.unam.mx/~mkameyam/public_html/ABYSSUS/ABYSSUS_NewUser.php">Create new user</a>
+
+      </form>
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
+</html>

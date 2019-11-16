@@ -1,0 +1,118 @@
+<html>
+<title>ABYSSUS_LogIn</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+<style>
+body,h1,h2{font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+p {line-height: 2}
+.bgimg, .bgimg2 {
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.bgimg {background-image: url("/w3images/wedding_couple.jpg")}
+.bgimg2 {background-image: url("/w3images/flowers.jpg")}
+</style>
+<body>
+
+<!-- Header / Home-->
+<header class="w3-display-container w3-wide bgimg w3-grayscale-min" id="home">
+  <div class="w3-display-middle w3-text-white w3-center">
+    <h1 class="w3-jumbo">ABYSSUS</h1>
+    <h2>Data Base</h2>
+  </div>
+</header>
+
+<!-- Navbar (sticky bottom) -->
+<div class="w3-bottom w3-hide-small">
+  <div class="w3-bar w3-white w3-center w3-padding w3-opacity-min w3-hover-opacity-off">
+    <a href="#home" style="width:25%" class="w3-bar-item w3-button">Home</a>
+    <a href="#about" style="width:25%" class="w3-bar-item w3-button">About</a>
+    <a href="#terms" style="width:25%" class="w3-bar-item w3-button">Terms and Conditions</a>
+    <a href="#LogIn" style="width:25%" class="w3-bar-item w3-button w3-hover-black">LogIn</a>
+  </div>
+</div>
+
+
+
+
+
+  <!-- Search -->
+  <div class="w3-container w3-light-grey w3-padding-32 w3-padding-large" id="search">
+    <div class="w3-content" style="max-width:600px">
+      <h4 class="w3-center"><b>Search</b></h4>
+      
+      <form action="/action_page.php" target="_blank">
+        <div class="w3-section">
+          <label>Name</label>
+          <input class="w3-input w3-border" type="text" name="Name" required>
+        </div>
+        <div class="w3-section">
+          <label>Email</label>
+          <input class="w3-input w3-border" type="text" name="Email" required>
+        </div>
+        <div class="w3-section">
+          <label>Message</label>
+          <input class="w3-input w3-border" type="text" name="Message" required>
+        </div>
+        <button type="submit" class="w3-button w3-block w3-black w3-margin-bottom">Send Message</button>
+      </form>
+
+      <form action="ABYSSUS_Result.php" method="post">
+        querry: <input class="w3-input w3-border" type="text" placeholder="..." name="mail" id="mail" value = ""/>
+        <select name="select">
+          <option value="bacteria" selected="selected">bacteria</option>
+          <option value="medium">medium</option>
+        </select>
+
+        <div class="w3-row">
+        <div class="w3-half">
+
+          <input type="button" onclick="submit()" value="search"></div>
+
+      </form>
+
+
+    </div>
+  </div>
+
+
+
+
+
+<!-- About -->
+<div class="w3-container w3-padding-64 w3-pale-red w3-grayscale-min" id="about">
+  <div class="w3-content">
+    <h1 class="w3-center w3-text-grey"><b>About ABYSSUS</b></h1>
+    <img class="w3-round w3-grayscale-min" src="/w3images/wedding_couple2.jpg" style="width:100%;margin:32px 0">
+    <p><i>This Data Base contains bacteria species that degrade hidrocarbons. It was made by LCG students, CCG, UNAM. </i>
+    </p><br>
+    <li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102"><a target="_blank" href="http://www.lcg.unam.mx">LCG</a></li>
+    <li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102"><a target="_blank" href="http://www.ccg.unam.mx">CCG</a></li>
+    <li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a target="_blank" href="http://www.morelos.unam.mx">UNAM Morelos</a></li>
+    <li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a target="_blank" href="http://www.unam.mx">UNAM</a></li>
+    <p class="w3-center"><a href="#about" class="w3-button w3-black w3-round w3-padding-large w3-large">About</a></p>
+  </div>
+</div>
+
+
+<!-- Terms and conditions -->
+<div class="w3-container w3-padding-64 w3-pale-red w3-grayscale-min" id="terms">
+  <div class="w3-content">
+    <h1 class="w3-center w3-text-grey"><b>Terms and Conditions</b></h1>
+    <img class="w3-round w3-grayscale-min" src="/w3images/wedding_couple2.jpg" style="width:100%;margin:32px 0">
+    <p><i>This Data Base was made without ... </i>
+    </p><br>
+    <p class="w3-center"><a href="#terms" class="w3-button w3-black w3-round w3-padding-large w3-large">Terms and Conditions</a></p>
+  </div>
+</div>
+
+
+
+
+
+</html>
